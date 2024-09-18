@@ -28,25 +28,25 @@ Follow the instructions below to set up the project locally.
 2. **Install Dependencies:**
 
     Frontend:
-        ```bash
-        cd client
-        npm install
-<br/>
+
+            cd client
+            npm install
+
     Backend:
-        ```bash
-        cd server
-        npm install
+    
+            cd server
+            npm install
+        
 
 3. **Start the Development Server:**
     Frontend:
-        ```bash
+    
         npm run dev
-<br/>
     backend:
-        ```bash
+            
         npm run dev
 
-4. **Environment Variables**
+4. **Environment Variables:**
 Make sure to set the required environment variables for connecting to your database and configuring JWT. You can create a .env file in the backend server directory with the following keys:
     ```bash
     PORT = <YOUR_PORT_NO.>
