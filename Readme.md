@@ -23,7 +23,7 @@ Follow the instructions below to set up the project locally.
 
 1. **Clone the repository:**
    ```bash
-   git clone [<repository-url>](https://github.com/Himanshuwadhwa1/AdminDashboard.git)
+   git clone https://github.com/Himanshuwadhwa1/AdminDashboard.git
 
 2. **Install Dependencies:**
 
@@ -31,6 +31,7 @@ Follow the instructions below to set up the project locally.
         ```bash
         cd client
         npm install
+<br/>
     Backend:
         ```bash
         cd server
@@ -40,7 +41,7 @@ Follow the instructions below to set up the project locally.
     Frontend:
         ```bash
         npm run dev
-
+<br/>
     backend:
         ```bash
         npm run dev
