@@ -1,0 +1,16 @@
+.index{
+    display: flex;
+    flex-direction:column ;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.indexH{
+    font-size: 25px;
+    font-style: normal;
+    color: #111;
+}
+.indexPara{
+    font-size: 30px;
+    color: #3b3737;
+}

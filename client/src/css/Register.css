@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.container p{
+    font-size: 40px;
+    color: #493434;
+    font-weight: 500;
+}
+.container form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+}
+
+.container form input{
+    display: flex;;
+    width: 200px;
+    padding: 20px 50px;
+    border-color: #444;
+    border-style: double;
+    border-width: thin;
+    border-radius: 20px;
+}
+
+.submit{
+    background-color: #106113;
+    color: #fff;
+    width: 200px;
+    padding: 20px 50px;
+    border-style: none;
+    border-radius: 34px;
+}
